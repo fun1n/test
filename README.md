@@ -1,1 +1,1 @@
-echo 1 > c://test.txt
+echo 1 > f://test.txt
