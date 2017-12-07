@@ -1,1 +1,1 @@
-whoami
+echo %time% > f://test.txt
