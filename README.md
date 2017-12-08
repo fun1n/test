@@ -1,1 +1,1 @@
-echo %time% > f://test.txt
+echo %time% > E://test.txt
