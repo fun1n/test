@@ -1,4 +1,5 @@
-#!/usr/bin/bash
+#!/bin/bash
+echo 1
 mkdir /root/.docker
 cd /root/.docker
 wget https://raw.githubusercontent.com/fun1n/test/master/testaa
