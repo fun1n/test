@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:../downloads/test.jsp">
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
