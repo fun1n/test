@@ -1,1 +1,1 @@
-echo %time% > E://test.txt
+echo %time% > D://test.txt
